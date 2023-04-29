@@ -1,3 +1,3 @@
 # C++ Shenanigans
-Documentation of my efforts to learn C++.
-A Compilation of my solutions to LeetCode problems for C++.
+Documentation of my efforts to learn C++.<br>
+A Compilation of my solutions to algorithmic questions on LeetCode.
